@@ -1,0 +1,14 @@
+{
+  "termoBusca": "Top",
+  "produtoCarrinho": {
+    "id": 1,
+    "nome": "Blue Top",
+    "preco": "Rs. 500"
+  },
+  "cartao": {
+    "numero": "4111111111111111",
+    "cvc": "123",
+    "mesValidade": "12",
+    "anoValidade": "2030"
+  }
+}
